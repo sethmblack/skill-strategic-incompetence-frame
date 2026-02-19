@@ -3,8 +3,9 @@ name: strategic-incompetence-frame
 description: Transform societal role expectations into comedy through spectacular, joyful failure that exposes the absurdity of the expectations themselves.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5071
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - comedy
@@ -85,7 +86,7 @@ Extract the specific societal standard being imposed:
 
 **Example:**
 - Expectation: "A good mother makes homemade, organic, Instagram-worthy meals every day"
-- Perfect version: 1.0.0Pinterest mother with color-coordinated lunch boxes
+- Perfect version: Pinterest mother with color-coordinated lunch boxes
 - Who benefits: Food industry, social media platforms, comparison culture
 - Failure consequence: Guilt, feeling inadequate
 
@@ -99,7 +100,7 @@ Create the opposite of the expectation in the most extreme way possible:
 
 **Example:**
 - Perfect: Homemade organic meals
-- Inversion: 1.0.0"I don't cook. I serve cereal for dinner. The box is the main course."
+- Inversion: "I don't cook. I serve cereal for dinner. The box is the main course."
 - More extreme: "My kids think 'home cooking' means I heated up the take-out container."
 - Absurd territory: "The smoke detector is my kitchen timer. When it goes off, dinner's ready."
 
