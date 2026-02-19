@@ -4,7 +4,7 @@ description: Transform societal role expectations into comedy through spectacula
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5071
+  version: 1.0.5072
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
